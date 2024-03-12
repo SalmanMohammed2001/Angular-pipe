@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pipe';
+
+  date=new Date();
+
+  salary=250006566
+
+  option='';
 }
